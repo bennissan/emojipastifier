@@ -1,4 +1,4 @@
 # emojipastifier
 A tool to convert copypasta to emojipasta!
 
-To run: `python emojipasta.py [COPYPASTA]`
+To run: `python3 emojipasta.py [COPYPASTA]`
